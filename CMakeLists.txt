@@ -5,8 +5,4 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(RSA
         rsa.cpp
-        rsa.cpp
-        rsa.cpp
-        rsa.cpp
-        rsa.cpp
         main.cpp)
