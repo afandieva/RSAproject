@@ -1,3 +1,0 @@
-C:/Users/TATAPUH/CLionProjects/RSA/cmake-build-debug/CMakeFiles/RSA.dir
-C:/Users/TATAPUH/CLionProjects/RSA/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/TATAPUH/CLionProjects/RSA/cmake-build-debug/CMakeFiles/rebuild_cache.dir
